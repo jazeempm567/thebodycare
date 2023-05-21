@@ -34,7 +34,7 @@ basic
 }
 
 .container {
-    max-width: 1170px;
+    max-width: 1670px;
 }
 
 html {
@@ -319,7 +319,7 @@ button {
 
 .logo a {
     color: #363636;
-    font-size: 41px;
+    font-size: 31px;
     font-weight: 600;
 }
 
@@ -432,8 +432,8 @@ button {
 /** banner section **/
 
 .full_bg {
-    background: url(../images/banner.jpg);
-    height: 100vh;
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/body-care-banner.jpeg);
+    height: 70vh;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -467,6 +467,12 @@ button {
     font-weight: bold;
 }
 
+.creative h2 {
+    font-size: 40px;
+    line-height: 40px;
+    color: #101010;
+    font-weight: bold;
+}
 .creative p {
     color: #101010;
     padding: 30px 0 55px 0;
