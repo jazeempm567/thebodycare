@@ -610,6 +610,8 @@ button {
 
 .appointment .titlepage p {
     padding-top: 10px;
+    padding-inline: 200px;
+
 }
 
 .main_form .form_control {
