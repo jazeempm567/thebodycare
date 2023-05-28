@@ -610,7 +610,6 @@ button {
 
 .appointment .titlepage p {
     padding-top: 10px;
-    padding-inline: 200px;
 
 }
 
@@ -940,6 +939,9 @@ button {
 .about .read_more:hover {
     box-shadow: 0 0 16px 3px #635d5d38;
 }
+.main_form .read_more {
+margin: 0 auto;
+}
 
 
 /** end about section **/
@@ -1029,7 +1031,6 @@ button {
 /** footer **/
 
 .footer {
-    margin-top: 90px;
     padding-top: 90px;
     background: #2d2d2d;
     text-align: center;
